@@ -1,0 +1,7 @@
+Code Book:
+Variable description:
+Note: Similar for train and test data set
+'subject_train.txt': Identifies subject who performed activity for each window sample.
+'total_acc_x_train.txt': Acceleration signal X axis in gravity units 
+'body_acc_x_train.txt': Body acceleration signal - subtracting gravity from the total acceleration.
+'body_gyro_x_train.txt': Gyroscope angular velocity vector for each window sample.
